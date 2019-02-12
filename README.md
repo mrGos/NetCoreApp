@@ -1,0 +1,2 @@
+# NetCoreApp
+Training .NET Core
